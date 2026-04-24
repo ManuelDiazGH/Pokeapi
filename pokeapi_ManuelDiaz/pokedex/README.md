@@ -43,7 +43,9 @@ Así puedo hacerr componentes agnósticos. Si cambio de API, no toco PokemonList
 ## Correr
 
 cd pokedex
+
 npm install
+
 npm run dev
 
 url de react: `http://localhost:5173`
